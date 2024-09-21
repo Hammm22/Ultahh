@@ -14,7 +14,7 @@ html {
 }
 
 .message span {
-  font-size: 37px;
+  font-size: 30px;
   font-weight: 700;
   color: #000000;
   opacity: 0;
@@ -129,7 +129,7 @@ html {
     font-family: "Times New Roman", Times, serif;
   }
   .message span {
-    font-size: 37px;
+    font-size: 30px;
     font-weight: 700;
     color: #000000;
     opacity: 0;
@@ -138,7 +138,7 @@ html {
   }
   .display-k1 {
     position: relative;
-    margin: 20px auto 0;
+    margin: 15px auto 0;
     opacity: 0;
     animation: fadeInKalimat 2s forwards;
     display: none;
@@ -147,7 +147,7 @@ html {
 }
 .display-k2 {
     position: relative;
-    margin: 20px auto 0;
+    margin: 15px auto 0;
     opacity: 0;
     animation: fadeIn 2s forwards;
     display: none;
@@ -157,7 +157,7 @@ html {
 
 .display-k3 {
     position: relative;
-    margin: 20px auto 0;
+    margin: 15px auto 0;
     opacity: 0;
     animation: fadeIn 2s forwards;
     display: none;
@@ -169,7 +169,7 @@ html {
 
 .display-k1 {
     position: relative;
-    margin: 20px auto 0;
+    margin: 15px auto 0;
     opacity: 0;
     animation: fadeInKalimat 2s forwards;
     display: none;
@@ -179,7 +179,7 @@ html {
 
 .display-k2 {
     position: relative;
-    margin: 20px auto 0;
+    margin: 15px auto 0;
     opacity: 0;
     animation: fadeIn 2s forwards;
     display: none;
@@ -189,7 +189,7 @@ html {
 
 .display-k3 {
     position: relative;
-    margin: 20px auto 0;
+    margin: 15px auto 0;
     opacity: 0;
     animation: fadeIn 2s forwards;
     display: none;
