@@ -14,7 +14,7 @@ html {
 }
 
 .message span {
-  font-size: 42px;
+  font-size: 37px;
   font-weight: 700;
   color: #000000;
   opacity: 0;
@@ -116,11 +116,11 @@ html {
   }
 }
 
-@media (max-width: 450px) {
+@media (max-width: 800px) {
   body,
   html {
     height: 100vh;
-    width: 49vh;
+    width: 45vh;
     margin: 0;
     display: flex;
     justify-content: center;
@@ -142,7 +142,7 @@ html {
     opacity: 0;
     animation: fadeInKalimat 2s forwards;
     display: none;
-    font-size: 18px;
+    font-size: 15px;
     font-weight: 700;
 }
 .display-k2 {
@@ -151,7 +151,7 @@ html {
     opacity: 0;
     animation: fadeIn 2s forwards;
     display: none;
-    font-size: 18px;
+    font-size: 15px;
     font-weight: 700;
 }
 
@@ -173,7 +173,7 @@ html {
     opacity: 0;
     animation: fadeInKalimat 2s forwards;
     display: none;
-    font-size: 22px;
+    font-size: 15px;
     font-weight: 700;
 }
 
@@ -183,7 +183,7 @@ html {
     opacity: 0;
     animation: fadeIn 2s forwards;
     display: none;
-    font-size: 22px;
+    font-size: 15px;
     font-weight: 700;
 }
 
@@ -193,7 +193,7 @@ html {
     opacity: 0;
     animation: fadeIn 2s forwards;
     display: none;
-    font-size: 22px;
+    font-size: 15px;
     font-weight: 700;
 }
 
