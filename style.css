@@ -14,7 +14,7 @@ html {
 }
 
 .message span {
-  font-size: 42px;
+  font-size: 40px;
   font-weight: 700;
   color: #000000;
   opacity: 0;
@@ -136,7 +136,7 @@ html {
     opacity: 0;
     animation: fadeInKalimat 2s forwards;
     display: none;
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 700;
 }
 
@@ -146,7 +146,7 @@ html {
     opacity: 0;
     animation: fadeIn 2s forwards;
     display: none;
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 700;
 }
 
@@ -156,7 +156,7 @@ html {
     opacity: 0;
     animation: fadeIn 2s forwards;
     display: none;
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 700;
 }
 
