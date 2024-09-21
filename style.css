@@ -14,7 +14,7 @@ html {
 }
 
 .message span {
-  font-size: 40px;
+  font-size: 42px;
   font-weight: 700;
   color: #000000;
   opacity: 0;
@@ -128,25 +128,30 @@ html {
     background-color: palevioletred;
     font-family: "Times New Roman", Times, serif;
   }
-}
-
-.display-k1 {
+  .message span {
+    font-size: 37px;
+    font-weight: 700;
+    color: #000000;
+    opacity: 0;
+    display: inline-block;
+    animation: fadeIn 1s forwards;
+  }
+  .display-k1 {
     position: relative;
     margin: 20px auto 0;
     opacity: 0;
     animation: fadeInKalimat 2s forwards;
     display: none;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 700;
 }
-
 .display-k2 {
     position: relative;
     margin: 20px auto 0;
     opacity: 0;
     animation: fadeIn 2s forwards;
     display: none;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 700;
 }
 
@@ -156,7 +161,39 @@ html {
     opacity: 0;
     animation: fadeIn 2s forwards;
     display: none;
-    font-size: 20px;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+}
+
+.display-k1 {
+    position: relative;
+    margin: 20px auto 0;
+    opacity: 0;
+    animation: fadeInKalimat 2s forwards;
+    display: none;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.display-k2 {
+    position: relative;
+    margin: 20px auto 0;
+    opacity: 0;
+    animation: fadeIn 2s forwards;
+    display: none;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.display-k3 {
+    position: relative;
+    margin: 20px auto 0;
+    opacity: 0;
+    animation: fadeIn 2s forwards;
+    display: none;
+    font-size: 22px;
     font-weight: 700;
 }
 
